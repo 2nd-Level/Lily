@@ -1,0 +1,43 @@
+@import 'variables';
+
+#AboutMe {
+    
+    margin: 20px auto;
+        width: 90%;
+    .aboutme {
+        display: flex;
+        margin: 0 auto;
+        width: 70%;
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+        background-color: #12121B;
+        border-radius: 2%;
+        padding: 20px;
+
+    }
+.about-pic {
+    margin-top: 20px;
+    height: 400px;
+    background-color: #2EA3A2;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 2%;
+  margin-bottom: 25px;
+}
+.about-text {
+    font-size: 2rem;
+    margin-top: 100px;
+    padding: 30px;
+    height: 200px;
+    background-color: #2EA3A2;
+}
+
+}
+
+
+ 
+
+
+
+
+#AboutMe {
+   
+}

@@ -1,0 +1,33 @@
+
+.footer {
+    font-size: 2rem;
+    padding: 30px;
+    background-color: #2EA3A2;
+    text-align: center;
+    ul{
+        margin: 20px 0;
+        display: flex;
+        justify-content: space-between;
+    }
+    .lily-footer {
+        margin: 20px 0;
+        background-color: #121212;
+    }
+    .shannon-footer {
+        margin: 20px 0;
+        background-color: #2EA3A2;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .shannon-icons {
+            margin: 0 auto;
+            width: 10%;
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+    
+    
+
+}
+
